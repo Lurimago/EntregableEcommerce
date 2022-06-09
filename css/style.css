@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+
+
+*{
+    font-family: 'Yantramanav', sans-serif;
+}
+
+:root {
+    --main-color:#f85555;
+    --text-color:#171427;
+    --bg-color:#fff;
+
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    color: var(--text-color);
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+section {
+    padding: 5rem 0 3rem;
+}
